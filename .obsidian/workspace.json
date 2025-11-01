@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "89a2e480083f999d",
+    "type": "split",
+    "children": [
+      {
+        "id": "22405f4d2916a512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4947f422bca52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week-4/week4_network-architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week4_network-architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb4527e24320e75b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb5f0e5545b7337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad19fc1ed3877e65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "56e7d53efa195201",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "72cd0e8f963b5837",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4d93179cd71e992",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac8cadde39076788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d508273bcc8944c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week-4/week4_network-architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for week4_network-architecture"
+            }
+          },
+          {
+            "id": "f97094dc0af69a60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "week-4/week4_network-architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from week4_network-architecture"
+            }
+          },
+          {
+            "id": "4836ceadbcf19f31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b99a685de960e42f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "week-4/week4_network-architecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of week4_network-architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7e4947f422bca52b",
+  "lastOpenFiles": [
+    "week-3/killercoda-Pasted image 20251012123443.png",
+    "week-4/week4_network-architecture.md"
+  ]
+}
