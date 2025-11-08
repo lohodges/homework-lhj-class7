@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week-4/week4_screenshots.md",
+                "file": "week-6/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week4_screenshots"
+              "title": "Readme"
             }
           }
         ]
@@ -171,9 +171,17 @@
   },
   "active": "7e4947f422bca52b",
   "lastOpenFiles": [
+    "Pasted image 20251108084521.png",
+    "test-terra/main.tf",
+    "test-terra",
     "Pasted image 20251013210116.png",
-    "week-4/week4_network-architecture.md",
+    "Pasted image 20251108074207.png",
+    "week-6/Readme.md",
     "week-4/week4_screenshots.md",
+    "week-9",
+    "week-8",
+    "week-7",
+    "week-4/week4_network-architecture.md",
     "week-3/killercoda-Pasted image 20251012123443.png"
   ]
 }
