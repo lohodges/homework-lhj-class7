@@ -37,8 +37,6 @@ Text document listing at least one person who you shared your instructions with,
      ![](../attachments/Pasted%20image%2020251108084521.png)
 7. Run terraform init in the terminal
 	1. It will create a .terraform directory and .terraform.lock.hcl. There is never a need to touch those files unless you know what you are doing; even then, I would avoid them.
-8. 
-
-
-
-
+8. Create a .gitgnore file. Copy Aaron's: https://github.com/aaron-dm-mcdonald/Class7-notes/blob/main/110225/.gitignore
+	1. ![](../attachments/Pasted%20image%2020251108113221.png)
+9. 

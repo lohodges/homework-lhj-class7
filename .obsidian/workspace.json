@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week-6/Readme.md",
+                "file": "week-6/HW-BMAC-6.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "HW-BMAC-6.1"
             }
           }
         ]
@@ -171,9 +171,14 @@
   },
   "active": "7e4947f422bca52b",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251108142159.png",
+    "week-6/Readme.md",
+    "week-6/HW-BMAC-6.1.md",
+    "attachments/Pasted image 20251108113221.png",
+    "attachments/Pasted image 20251108111530.png",
+    "test-terra/terraform.tfstate",
     "attachments/Pasted image 20251108111059.png",
     "attachments/Pasted image 20251108074207.png",
-    "week-6/Readme.md",
     "attachments/Pasted image 20251108084521.png",
     "attachments/Pasted image 20251108090701.png",
     "Pasted image 20251013210116.png",
