@@ -22,4 +22,3 @@ Text document listing at least one person who you shared your instructions with,
 		1. AWS ClI must be installed and authenticated
 		2. Add a provider block for AWS
 ![[Pasted image 20251108084521.png]]
-		3. 
