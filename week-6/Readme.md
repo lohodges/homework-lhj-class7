@@ -12,17 +12,17 @@ Screenshot of the .gitignore file in the same folder as your Terraform files
 Text document listing at least one person who you shared your instructions with, and they were able to use your instructions to deploy Terraform on their own.
 
 # How to set up Terraform
-	1. Step 1 - https://developer.hashicorp.com/terraform/install
-		1. Follow install instructions for your OS.
-	2. Step 2 - In your terminal, confirm installation of Terraform by typing ```terraform -v```. You should see Terraform and a version number.
-		1. ![[Pasted image 20251108074207.png]]
-	3. Step 3 - Make a working directory for your Terraform code and cd into it
-	4. Step 4 - Create at least one file with extension .tf. You call it whatever you want, but I recommend following the Terraform Style Guide
-	5. Step 5 - Create your AWS infrastructure (you can use GCP or Azure)
-		1. AWS ClI must be installed and authenticated
-		2. Add a provider block for AWS
+1. Step 1 - https://developer.hashicorp.com/terraform/install
+	1. Follow install instructions for your OS.
+2. Step 2 - In your terminal, confirm installation of Terraform by typing terraform -v. You should see Terraform and a version number.
+	1. ![[Pasted image 20251108074207.png]]
+3. Step 3 - Make a working directory for your Terraform code and cd into it
+4. Step 4 - Create at least one file with extension .tf. You call it whatever you want, but I recommend following the Terraform Style Guide
+5. Step 5 - Create your AWS infrastructure (you can use GCP or Azure)
+	1. AWS ClI must be installed and authenticated
+	2. Add a provider block for AWS
   ![](../attachments/Pasted%20image%2020251108084521.png)
-	  6. Step 6 - like this?
+6. 
 
 
 
