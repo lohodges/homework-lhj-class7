@@ -21,6 +21,7 @@ Text document listing at least one person who you shared your instructions with,
 5. Create your AWS infrastructure (you can use GCP or Azure)
 	1. AWS ClI must be installed and authenticated
 	2. Add a provider block for AWS
+	
      ![](../attachments/Pasted%20image%2020251108084521.png)
 6. 
 
