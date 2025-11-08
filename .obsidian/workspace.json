@@ -11,14 +11,12 @@
             "id": "7e4947f422bca52b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "week-6/Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "week-6/Pasted image 20251108084521.png"
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251108084521"
             }
           }
         ]
@@ -171,10 +169,10 @@
   },
   "active": "7e4947f422bca52b",
   "lastOpenFiles": [
+    "week-6/Readme.md",
     "week-6/Pasted image 20251108074207.png",
     "Pasted image 20251013210116.png",
     "week-6/Pasted image 20251108084521.png",
-    "week-6/Readme.md",
     "test-terra/main.tf",
     "test-terra",
     "week-4/week4_screenshots.md",
