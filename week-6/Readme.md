@@ -12,18 +12,32 @@ Screenshot of the .gitignore file in the same folder as your Terraform files
 Text document listing at least one person who you shared your instructions with, and they were able to use your instructions to deploy Terraform on their own.
 
 # How to set up Terraform
-1. https://developer.hashicorp.com/terraform/install
+### Prerequisites
+- Text Editor (you choose)
+	- VSCode with Terraform extension
+	- Neovim with Terraform plugin
+	- any terminal text editor (nano, vim, vi)
+- Terraform CLI
+- AWS CLI
+- AWS Account
+	- Add user for CLI with permissions "AdministratorAccess", “AmazonAPIGatewayAdministrator”, “SystemAdministrator”
+	- Be sure to get your access key and secret access key
+1. Make sure this command produces something similar below:  aws sts get-caller-identity
+	1. ![](../attachments/Pasted%20image%2020251108111059.png)
+2. https://developer.hashicorp.com/terraform/install
 	1. Follow install instructions for your OS.
-2. In your terminal, confirm installation of Terraform by typing terraform -v. You should see Terraform and a version number.
-	1. ![[Pasted image 20251108074207.png]]
-3. Make a working directory for your Terraform code and cd into it
-4. Create at least one file with extension .tf. You call it whatever you want, but I recommend following the Terraform Style Guide
-5. Create your AWS infrastructure (you can use GCP or Azure)
+3. In your terminal, confirm installation of Terraform by typing terraform -v. You should see Terraform and a version number.
+	1. ![](../attachments/Pasted%20image%2020251108074207.png)
+4. Make a working directory for your Terraform code and cd into it
+5. Create at least one file with extension .tf. You call it whatever you want, but I recommend following the Terraform Style Guide
+6. Create your AWS infrastructure (you can use GCP or Azure)
 	1. AWS ClI must be installed and authenticated
 	2. Add a provider block for AWS
 	
      ![](../attachments/Pasted%20image%2020251108084521.png)
-6. 
+7. Run terraform init in the terminal
+	1. It will create a .terraform directory and .terraform.lock.hcl. There is never a need to touch those files unless you know what you are doing; even then, I would avoid them.
+8. 
 
 
 
