@@ -15,15 +15,27 @@ Text document listing at least one person who you shared your instructions with,
 ### Prerequisites
 - Text Editor (you choose)
 	- VSCode with Terraform extension
+		- https://code.visualstudio.com/
+			- Follow the directions for your OS
+		- https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+			- After you have installed VS Code, install the extension by following the directions at the link above or go to the Extensions tab in VS Code to search for and install the HashiCorp Terraform extension.
 	- Neovim with Terraform plugin
-	- any terminal text editor (nano, vim, vi)
+		- If you are using Neovim, you know what you are doing or you know that the learning curve is steep. Good luck! I will switch eventually to Neovim.
+	- any \*NIX terminal text editor (nano, vim, vi)
+		- Read the man pages for any of these tools if you need help.
+	- Notepad++
+		- https://notepad-plus-plus.org/downloads/
+	- Windows Notepad
+		- If you like to punish yourself, use Windows Notepad; otherwise, I recommend Notepad++.
 - Terraform CLI
+- AWS Account
 - AWS CLI
 	- Read AWS-CLI-setup.md [AWS-CLI-setup](AWS-CLI-setup.md)
-- AWS Account
-	- 
-	- Add user for CLI with permissions "AdministratorAccess", “AmazonAPIGatewayAdministrator”, “SystemAdministrator”
-	- Be sure to get your access key and secret access key
+- Git Bash (Windows only) - Linux and Unix are the operating systems (OS) that you will encounter the most in the Cloud. You need to get familiar with commands in primarily Linux systems. 
+	- https://gitforwindows.org/
+		- Git for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of the [Git SCM](https://git-scm.com/) to Windows while providing appropriate user interfaces for experienced Git users and novices alike.
+		- Git BASH
+			- Git for Windows provides a BASH emulation used to run Git from the command line. *NIX users should feel right at home, as the BASH emulation behaves just like the “git” command in LINUX and UNIX environments.
 1. Make sure this command produces something similar below:  aws sts get-caller-identity
 	1. ![](../attachments/Pasted%20image%2020251108111059.png)
 2. https://developer.hashicorp.com/terraform/install
