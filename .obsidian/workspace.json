@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week-6/HW-BMAC-6.1.md",
+                "file": "week-6/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW-BMAC-6.1"
+              "title": "Readme"
             }
           }
         ]
@@ -171,26 +171,42 @@
   },
   "active": "7e4947f422bca52b",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251108142159.png",
+    "week-6/AWS-CLI-setup.md",
+    "attachments/Pasted image 20251109122401.png",
+    "attachments/Pasted image 20251109122332.png",
+    "attachments/Pasted image 20251109122008.png",
+    "attachments/Pasted image 20251109121946.png",
+    "attachments/Pasted image 20251109120727.png",
+    "attachments/Pasted image 20251109120637.png",
+    "attachments/Pasted image 20251109120356.png",
     "week-6/Readme.md",
+    "test-terra/Class7-notes/class-a/files.sh",
+    "test-terra/Class7-notes/class-a",
+    "test-terra/Class7-notes/assets/images.jpg",
+    "test-terra/Class7-notes/assets/cw-ec2.webp",
+    "test-terra/Class7-notes/assets/Simple-3-tier.webp",
+    "test-terra/Class7-notes/assets",
+    "test-terra/Class7-notes/README.md",
+    "test-terra/Class7-notes/110725/src/web/static/styles.css",
+    "test-terra/Class7-notes/110725/src/web/static/pictures.html",
+    "test-terra/Class7-notes/110725/src/web/static/index.html",
+    "test-terra/Class7-notes/110725/src/web/static",
+    "test-terra/Class7-notes/110725/src/web/app.js",
+    "test-terra/Class7-notes/110725/src/db/init.sql",
+    "test-terra/Class7-notes/110725/src/api/app.py",
+    "test-terra/Class7-notes/110725/README.md",
+    "test-terra/Class7-notes/110225/README.md",
+    "test-terra/Class7-notes/102125/notes.md",
+    "test-terra/Class7-notes/102125/README.md",
+    "test-terra/Class7-notes/101825/time.md",
+    "test-terra/Class7-notes/101825/README.md",
+    "test-terra/Class7-notes/101425/README.md",
+    "test-terra/Class7-notes/092725/README.md",
+    "test-terra/Class7-notes/092325/README.md",
+    "test-terra/Class7-notes/091325/notes.md",
+    "test-terra/Class7-notes/091325/README.md",
     "week-6/HW-BMAC-6.1.md",
-    "attachments/Pasted image 20251108113221.png",
-    "attachments/Pasted image 20251108111530.png",
-    "test-terra/terraform.tfstate",
-    "attachments/Pasted image 20251108111059.png",
-    "attachments/Pasted image 20251108074207.png",
-    "attachments/Pasted image 20251108084521.png",
-    "attachments/Pasted image 20251108090701.png",
-    "Pasted image 20251013210116.png",
-    "Pasted image 20251108090436.png",
-    "attachments",
-    "test-terra/main.tf",
-    "test-terra",
     "week-4/week4_screenshots.md",
-    "week-9",
-    "week-8",
-    "week-7",
-    "week-4/week4_network-architecture.md",
-    "week-3/killercoda-Pasted image 20251012123443.png"
+    "week-4/week4_network-architecture.md"
   ]
 }
