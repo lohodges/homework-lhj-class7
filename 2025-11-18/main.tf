@@ -349,8 +349,8 @@ resource "aws_vpc_security_group_ingress_rule" "allow_ssh" {
   description       = "Allow SSH"
 
   ip_protocol = "tcp"
-  #cidr_ipv4   = "0.0.0.0/0"
-  cidr_ipv4 = "73.67.73.63/32"
+  cidr_ipv4   = "0.0.0.0/0"
+  #cidr_ipv4 = "xx.xx.xx.xx/32"
   from_port = 22
   to_port   = 22
 }
