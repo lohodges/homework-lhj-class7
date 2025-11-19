@@ -151,4 +151,8 @@ resource "aws_launch_template" "ec2-linux-private" {
       "Name"         = "asg-launched-private-linux-ec2"
     }
   }
+
+  lifecycle {
+    create_before_destroy = true # create a new version of the launch template before destroying the current launch template
+  }
 }
