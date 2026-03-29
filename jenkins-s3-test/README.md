@@ -52,4 +52,19 @@ Note:
 ```
 - all text/image files uploaded in s3 bucket
 ![alt text](deliverables/s3-uploads.png)
+
+
 - non-forked repo
+
+## S3 Bucket Public URLs
+
+| File | URL |
+|------|-----|
+| armageddon-repo-link.md | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/armageddon-repo-link.md` |
+| armageddon-status.png | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/armageddon-status.png` |
+| jenkins-2.png | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/jenkins-2.png` |
+| jenkins-4.png | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/jenkins-4.png` |
+| jenkins.png | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/jenkins.png` |
+| s3-uploads.png | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/s3-uploads.png` |
+| webhook-trigger-1.png | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/webhook-trigger-1.png` |
+| webhook-trigger-2.png | `https://jenkins-bucket-lh-20260329181829553400000001.s3.us-east-2.amazonaws.com/deliverables/webhook-trigger-2.png` |
