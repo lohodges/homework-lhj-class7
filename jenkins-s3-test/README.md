@@ -38,9 +38,9 @@ class 7 g-check grading rubric
 ![alt text](deliverables/webhook-trigger-1.png)
 ![alt text](deliverables/webhook-trigger-2.png)
 - screenshot: successful TF deployment via jenkins
-![alt text](image-4.png)
-![alt text](image.png)
-![alt text](image-2.png)
+![alt text](deliverables/image-4.png)
+![alt text](deliverables/image.png)
+![alt text](deliverables/image-2.png)
 - screenshot: theo's approval of Armageddon submission (PENDING)
 - text file/markdown/picture: Armageddon repo link
 ```
