@@ -127,3 +127,25 @@ resource "aws_s3_object" "s3-uploads" {
   # etag = "${md5(file("path/to/file"))}"
   etag = filemd5("deliverables/s3-uploads.png")
 }
+
+resource "aws_s3_object" "armageddon-repo-link" {
+  bucket = aws_s3_bucket.frontend.bucket
+  key    = "deliverables/armageddon-repo-link.md"
+  source = "deliverables/armageddon-repo-link.md"
+
+  # The filemd5() function is available in Terraform 0.11.12 and later
+  # For Terraform 0.11.11 and earlier, use the md5() function and the file() function:
+  # etag = "${md5(file("path/to/file"))}"
+  etag = filemd5("deliverables/armageddon-repo-link.md")
+}
+
+resource "aws_s3_object" "armageddon-status" {
+  bucket = aws_s3_bucket.frontend.bucket
+  key    = "deliverables/armageddon-status.png"
+  source = "deliverables/armageddon-status.png"
+
+  # The filemd5() function is available in Terraform 0.11.12 and later
+  # For Terraform 0.11.11 and earlier, use the md5() function and the file() function:
+  # etag = "${md5(file("path/to/file"))}"
+  etag = filemd5("deliverables/armageddon-status.png")
+}
